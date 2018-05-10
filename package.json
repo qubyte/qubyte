@@ -1,6 +1,6 @@
 {
   "name": "qubyte",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Because sometimes remembering qubyte.codes is harder than running `npx qubyte`.",
   "bin": {
     "qubyte": "cli.js"
