@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 'use strict';
 
-const opn = require('opn');
+const open = require('open');
 
-opn('https://qubyte.codes', { wait: false });
+open('https://qubyte.codes', { wait: false });
