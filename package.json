@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/qubyte/qubyte#readme",
   "dependencies": {
-    "opn": "^5.3.0"
+    "open": "^7.0.4"
   }
 }
