@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - Past 🎓: Quantum informatician.
-- Present 💡: Server developer (mostly in Node.js)
+- Present 💡: Server developer (Ruby and Scala recently, 10 years of Node.js prior)
 - Enthusiastic 🤓: [IndieWeb](https://indieweb.org/)
 - Pronouns ☺️: he/him
 - Personal site 🌍: [https://qubyte.codes](https://qubyte.codes)
