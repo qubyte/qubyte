@@ -6,4 +6,5 @@
 - Pronouns ☺️: he/him
 - Personal site 🌍: [https://qubyte.codes](https://qubyte.codes)
 - Mastodon 🦣: [@qubyte@mastodon.social](https://mastodon.social/@qubyte)
+- Bluesky 🦋: [qubyte.codes](https://bsky.app/profile/qubyte.codes)
 - Learning 📖: Japanese
